@@ -3,7 +3,7 @@ This Project was created on 08/08/2021 <Br>
 Project Title: Bike Share Analysis <Br>
  <B>
 Python was used in this project to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. <Br>
-Python 3, NumPy, and pandas have been utlized to compelete the project. <B>
+Python 3, NumPy, and pandas have been utilized to complete the project. <B>
 You can start this project by running: python bikeshare_2.py on your terminal application. <B>
  <B>
 Data sets: <B>
