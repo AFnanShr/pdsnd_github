@@ -16,8 +16,11 @@ User Type (Subscriber or Customer) <B>
  <B>
  Analysis: <B>
  The project focused on analysing popular times of travel, stations and trips in addition to trips duration and user information. <B>
-<B>
+ <B>
 Files used: <B>
 Chicago.csv <B>
 New_york_city.csv <B>
 Washigton.csv <B>
+ <B>
+Credits: <B>
+Many thanks to the great session leads and mentors Rakan Alkhlewi and Haroon Gharawi.
